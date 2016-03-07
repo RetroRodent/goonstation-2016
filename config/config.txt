@@ -68,14 +68,16 @@ ALLOW_AI
 NORESPAWN
 
 # set a hosted by name for unix platforms
-HOSTEDBY Galactic Order of Oppressive Neckbeards
+HOSTEDBY a fuckin moron
 
 # name
 #SERVERNAME Gibbed
-SERVERNAME LLJK
+SERVERNAME Server
 SERVERSUFFIX
-SERVERREGION US
+SERVERREGION Local
 
-ENV prod
+# dev/prod/
+ENV dev
 
-CDN http://cdn.goonhub.com
+#CDN http://cdn.goonhub.com
+CDN http://127.0.0.1
